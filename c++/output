@@ -1,0 +1,6 @@
+Enter no. of vertices: Enter no. of edges: 
+Enter source & destination
+
+1 component: 0 -> 2 -> 1 -> 
+2 component: 4 -> 3 -> 5 -> 
+execution time: 54 us
